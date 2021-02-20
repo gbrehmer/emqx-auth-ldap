@@ -3,7 +3,7 @@ PROJECT_DESCRIPTION = Authentication/ACL with LDAP
 PROJECT_VERSION = 2.3.10
 
 DEPS = ecpool clique
-dep_ecpool = git https://github.com/emqtt/ecpool 0.2.1
+dep_ecpool = git https://github.com/emqtt/ecpool v0.2.1
 dep_clique  = git https://github.com/emqtt/clique v0.3.10
 
 LOCAL_DEPS = eldap
